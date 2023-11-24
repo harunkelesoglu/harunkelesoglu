@@ -16,13 +16,12 @@
 [![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
 
 ### Technologies & Frameworks
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws&logoColor=orange)](https://hub.docker.com/)
+[![Kubernetes Microservice](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue)](https://hub.docker.com/)
 [![React.js](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
 [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red)](https://nestjs.com/)
