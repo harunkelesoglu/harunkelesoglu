@@ -26,6 +26,7 @@
 [![React.js](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
 [![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=red)](https://nestjs.com/)
 [![Electron](https://img.shields.io/badge/electronjs-black?style=for-the-badge&logo=electron&logoColor=turquoise)](https://www.electronjs.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)](https://www.openai.com/)
 [![TensorFlow.js](https://img.shields.io/badge/tensorflowjs-black?style=for-the-badge&logo=tensorflow&logoColor=orange)](https://www.tensorflow.org/js)
 
 ### Operating Systems
