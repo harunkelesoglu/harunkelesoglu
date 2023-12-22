@@ -5,11 +5,13 @@
   I'm a Software Engineer who is interested in developing AI-based tools/libs/products that will transfrom our daily lives with AI.<br><br>
 </i><br>
   <a href="https://www.linkedin.com/in/harunkeles0glu/">
-  <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
+    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
   <a href="https://twitter.com/keles0glu">
-  <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+    <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://medium.com/@harunkeles0glu">
-  <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium"></a>
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium" alt="Medium"></a>
+  <a href="https://harunkelesoglu.github.io/">
+    <img src="https://img.shields.io/badge/blog-black?style=for-the-badge&logo=blog" alt="Blog"></a>
 </p>
 
 ### Languages
