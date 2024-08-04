@@ -2,7 +2,7 @@
 <p align="center">
 <i>
   I'm Harun.<br>
-  I'm a Software Engineer who is interested in developing AI-based tools/libs/products that will transfrom our daily lives with AI.<br><br>
+  I'm a Senior Software Engineer who is interested in developing AI-based tools/libs/products that will transfrom our daily lives with AI.<br><br>
 </i><br>
   <a href="https://www.linkedin.com/in/harunkeles0glu/">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="Linkedin"></a>
